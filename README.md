@@ -20,7 +20,7 @@ Electrical-Electronics Engineering & Computer Science Junior
 </h3>
 <a><img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "C" width = 50, height = 50></a>
 <a><img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt = "Java" width = 50, height = 50></a>
-<a><img src = "https://tr.wikipedia.org/wiki/Xilinx#/media/Dosya:Xilinx_logo.svg" alt = "verilog"  height = 50></a>
+<a><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-j8nrub%2F&psig=AOvVaw3TaVcgdX0u2Axhpdw9brXX&ust=1707473603904000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjMwuCYm4QDFQAAAAAdAAAAABAQ" alt = "verilog"  height = 50></a>
 <a><img src = "" alt = "" width = 50, height = 50></a>
   
   
