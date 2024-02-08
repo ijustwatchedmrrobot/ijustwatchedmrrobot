@@ -18,9 +18,13 @@ Electrical-Electronics Engineering & Computer Science Junior
 <h3>
   Languages and Tools:
 </h3>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "C" width = 50, height = 50>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt = "Java" width = 50, height = 50>
-  <img src = "https://en.wikipedia.org/wiki/File:Xilinx_logo.svg" alt = "verilog" width = 50, height = 50>
-  <img src = "" alt = "" width = 50, height = 50>
-  <img src = "" alt = "" width = 50, height = 50>
+<a><img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "C" width = 50, height = 50></a>
+<a><img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt = "Java" width = 50, height = 50></a>
+<a><img src = "https://tr.wikipedia.org/wiki/Xilinx#/media/Dosya:Xilinx_logo.svg" alt = "verilog"  height = 50></a>
+<a><img src = "" alt = "" width = 50, height = 50></a>
+  
+  
+  
+  
+ 
 
