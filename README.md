@@ -13,3 +13,4 @@ Electrical-Electronics Engineering & Computer Science Junior
   Connect with me:
 </h3>
 <a href = "https://www.linkedin.com/in/said-bora-ozdamar/"><img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin" width = 50, height = 50></a>
+<a href = "https://leetcode.com/sboraozdamar/"><img src = "https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt = "linkedin" width = 50, height = 50></a>
