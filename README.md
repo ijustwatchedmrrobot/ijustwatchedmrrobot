@@ -1,8 +1,8 @@
 ### Hi👋, I'm Bora
 
-<h1>
+<h2>
 Electrical-Electronics Engineering & Computer Science Junior
-</h1>
+</h2>
 
 - 🔭 I’m currently working on 42cursus projects, focused on DSA and CSE.
 - 🌱 I’m currently learning ML and improving OOP.
