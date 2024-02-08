@@ -12,4 +12,4 @@ Electrical-Electronics Engineering & Computer Science Junior
 <h3>
   Connect with me:
 </h3>
-<img src = "https://www.linkedin.com/in/said-bora-ozdamar/" alt = "linkedin" width = 50, height = 50>
+<a href = "https://www.linkedin.com/in/said-bora-ozdamar/"><img src = "https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt = "linkedin" width = 50, height = 50></a>
